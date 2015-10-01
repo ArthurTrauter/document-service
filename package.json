@@ -4,6 +4,10 @@
   "description": "document service api for up- and download file with file versioning",
   "author" : "Arthur Trauter",
   "email" : "arthur.trauter@googlemail.com",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/ArthurTrauter/document-service.git"
+  },
   "keywords": [
     "document",
     "service",
