@@ -1,12 +1,12 @@
 {
   "name": "document-service",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "document service api for up- and download file with file versioning",
-  "author" : "Arthur Trauter",
-  "email" : "arthur.trauter@googlemail.com",
+  "author": "Arthur Trauter",
+  "email": "arthur.trauter@googlemail.com",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/ArthurTrauter/document-service.git"
+    "type": "git",
+    "url": "https://github.com/ArthurTrauter/document-service.git"
   },
   "keywords": [
     "document",
