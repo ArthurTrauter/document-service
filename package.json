@@ -1,10 +1,23 @@
 {
   "name": "document-service",
   "version": "0.0.0",
+  "description": "document service api for up- and download file with file versioning",
+  "author" : "Arthur Trauter",
+  "email" : "arthur.trauter@googlemail.com",
+  "keywords": [
+    "document",
+    "service",
+    "api"
+  ],
+  "main": "server.js",
+  "license": "MIT",
   "dependencies": {
     "body-parser": "1.14.1",
+    "config": "1.16.0",
     "express": "4.13.3",
+    "method-override": "2.3.5",
     "mongoose": "4.1.9",
     "node-express-crud-router": "1.2.0"
-  }
+  },
+  "preferGlobal": "true"
 }

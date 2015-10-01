@@ -1,0 +1,13 @@
+{
+  "did":  "12345",
+  "path": "/c/test/test/test.pdf",
+  "lastversion": "0",
+  "versions": [
+     {
+        "vnr":  "0",
+        "file": "test.pdf",
+        "mime": "application/pdf",
+        "crc":  "99999a",
+        "lastupdate": "01.10.2015"
+     }]
+}
